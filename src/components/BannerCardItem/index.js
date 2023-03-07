@@ -10,7 +10,7 @@ const BannerCardItem = props => {
         <h1 className="heading">{headerText}</h1>
         <p className="description">{description}</p>
         <button className="show-more-btn" type="button">
-          Show More
+          Show less
         </button>
       </div>
     </li>
